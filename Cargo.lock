@@ -1,4 +1,12 @@
 [root]
 name = "fizzbuzz"
 version = "0.1.0"
+dependencies = [
+ "fx 0.0.1 (git+https://github.com/archer884/fx)",
+]
+
+[[package]]
+name = "fx"
+version = "0.0.1"
+source = "git+https://github.com/archer884/fx#94e830ef906590d1c151d113e07444d71dd2b720"
 

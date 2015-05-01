@@ -2,3 +2,6 @@
 name = "fizzbuzz"
 version = "0.1.0"
 authors = ["J/A <archer884@gmail.com>"]
+
+[dependencies.fx]
+git = "https://github.com/archer884/fx"
