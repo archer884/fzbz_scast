@@ -8,5 +8,5 @@ dependencies = [
 [[package]]
 name = "fx"
 version = "0.0.1"
-source = "git+https://github.com/archer884/fx#7446d054e30ba924b479ac721b56561b857326c4"
+source = "git+https://github.com/archer884/fx#897b0b8ae92084354c96eb8f2b855d35ccd4f89f"
 
