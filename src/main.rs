@@ -2,5 +2,5 @@
 extern crate fx;
 
 fn main() {
-    fx!(1..101);
+    fx!(1, 100);
 }
